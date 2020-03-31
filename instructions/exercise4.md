@@ -16,3 +16,6 @@ Once you have created a custom style using Mapbox, you'll need to add it to your
 4. Add your Mapbox access token (line 38)
 
 5. Save your changes and load your page
+
+
+just a reminder that I've updated the Studio 2 repo with two things I left off the initial instructions. As part of exercise 4 you will add some text to your web page (preferably underneath the web map) with links to the organization you choose to create a custom map for; a style document or guide for their colors, or which tool you used to define the colors; and a few words about any other color choices you made. Also, when you have finished the 4 exercises and have successfully added maps to all the pages, you will need to publish the website using Github pages. The final output for this studio is a website along with your repo. Every Github account can have one personal page (this what you created for week 1) and multiple project pages, which is what you will use this week. This process is very similar to what you did in studio week 1, however you don't need to change themes or use Jekyll.
